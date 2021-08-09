@@ -54,7 +54,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "modified": "2021-08-09T13:14:05.772Z",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
